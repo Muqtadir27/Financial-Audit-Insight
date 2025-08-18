@@ -1,7 +1,7 @@
 # **📊 Financial Audit Insight**
 A Precision-Driven **Audit Trail for Financial Transactions** Using Excel
 
-## **🔍 Project Overview**
+## **🔍 Project Overview **
 **Financial Audit Insight** is an Excel-based audit tool that performs transaction-level validation of financial data, with a focus on reconciling and verifying entries involving journal entries, purchases, liabilities, and expense recognition. This project emulates how real-world financial audits are carried out, using a structured, logic-driven method to determine what entries should be included in audit reports and how transaction timing impacts financial records.
 
 Whether you're a data analyst, financial auditor, or aspiring data scientist, this project showcases your attention to detail, domain understanding, and data validation logic in a real-world accounting context.
